@@ -59,7 +59,11 @@ Input (Image/Video) → YOLO Model → Backend Processing → Decision Logic →
 
 ## 📷 Sample Output
 
-(Add screenshots here)
+### Frontend View
+![Frontend](aRecon.png)
+
+### Backend View
+![Backend](backend.jpeg)
 
 ---
 
