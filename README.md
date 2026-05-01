@@ -70,35 +70,48 @@ Input (Image/Video) → YOLO Model → Backend Processing → Decision Logic →
 
 ## 🚀 How to Run
 
-1. Clone the repository
+### 1. Clone the repository
 
-   ```
-   git clone <your-repo-link>
-   ```
+```bash
+git clone https://github.com/Priya021-hub/ARecon
+cd ARecon
+```
 
-2. Navigate to the project folder
+---
 
-   ```
-   cd <project-folder>
-   ```
+### 2. Backend Setup
 
-3. Install dependencies
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
 
-   ```
-   pip install -r requirements.txt
-   ```
+👉 Open Swagger UI:
+http://127.0.0.1:8000/docs
 
-4. Run the backend
+---
 
-   ```
-   python app.py
-   ```
+### 3. Frontend Setup
 
-5. Open in browser
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-   ```
-   http://localhost:3000
-   ```
+👉 Open in browser:
+http://localhost:5173
+
+---
+
+### 4. Environment Variables
+
+Create a `.env` file inside the `backend/` folder and add:
+
+```
+WEATHER_API_KEY=your_openweather_api_key
+```
 
 ---
 
