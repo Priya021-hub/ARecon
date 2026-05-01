@@ -66,7 +66,7 @@ Input (Image/Video) → YOLO Model → Backend Processing → Decision Logic →
 ![Backend](backend.jpeg.png)
 
 ### Outcome: Live Missiom
-![Outcome](livemission.png)
+![Outcome](outcome.jpeg.png)
 ---
 
 ## 🚀 How to Run
