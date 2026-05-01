@@ -42,19 +42,18 @@ Input (Image/Video) → YOLO Model → Backend Processing → Decision Logic →
 
 * **Language**: Python
 * **Computer Vision**: YOLO
-* **Backend**: (Flask / FastAPI – update this)
-* **Frontend**: (React / HTML-CSS-JS – update this)
-* **Libraries**: OpenCV (if used), NumPy
+* **Backend**: ( FastAPI )
+* **Frontend**: ( HTML-CSS-JS )
+* **Libraries**:  NumPy
 
 ---
 
 ## 👩‍💻 My Contribution
+- Contributed to integration of YOLO-based object detection for real-time analysis  
+- Assisted in backend development for processing detection outputs  
+- Worked on frontend integration to visualize drone navigation and detections  
+- Participated in testing, debugging, and improving system performance
 
-* Collaborated as part of a team to develop the system
-* Contributed to **integration of YOLO-based object detection**
-* Assisted in **backend development and data processing logic**
-* Participated in **frontend integration for visualization dashboard**
-* Involved in **testing, debugging, and performance optimization**
 
 ---
 
