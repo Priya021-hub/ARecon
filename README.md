@@ -63,7 +63,7 @@ Input (Image/Video) → YOLO Model → Backend Processing → Decision Logic →
 ![Frontend](aRecon.png)
 
 ### Backend View
-![Backend](backend.jpeg)
+![Backend](backend.jpeg.png)
 
 ---
 
